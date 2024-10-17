@@ -45,9 +45,9 @@ repositories {
 }
 
 dependencies {
-    implementation("com.github.idankoblik.jukebox:paper:dev-20241017.153244-2")
-    implementation("com.github.idankoblik.jukebox:shared:dev-20241017.153244-2")
-    implementation("com.github.idankoblik.jukebox:adventure:dev-20241017.153244-3")
+    implementation("com.github.idankoblik.jukebox:paper:dev-20241017.185259-6")
+    implementation("com.github.idankoblik.jukebox:shared:dev-20241017.185259-6")
+    implementation("com.github.idankoblik.jukebox:adventure:dev-20241017.185259-7")
 
     implementation("net.apartium.cocoa-beans:common:${findProperty("cocoabeans.version")}")
     implementation("net.kyori:adventure-platform-bukkit:${findProperty("kyoribukkit.version")}")
