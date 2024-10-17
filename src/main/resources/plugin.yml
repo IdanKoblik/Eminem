@@ -1,0 +1,8 @@
+name: eminem
+description: Will the real slim shady please stand up
+main: com.github.idankoblik.eminem.EminemPluginLoader
+version: '${version}'
+authors: [B1trot]
+commands:
+  playnbs:
+    description: play's nbs music
